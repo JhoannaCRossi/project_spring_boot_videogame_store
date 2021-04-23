@@ -1,0 +1,9 @@
+com\videoapp\videojuegos\domain\Distribuidor.class
+com\videoapp\videojuegos\controller\VideojuegoAbmController.class
+com\videoapp\videojuegos\VideojuegosApplication.class
+com\videoapp\videojuegos\service\VideojuegoService.class
+com\videoapp\videojuegos\repository\DistribuidorRepository.class
+com\videoapp\videojuegos\domain\Videojuego.class
+com\videoapp\videojuegos\service\DistribuidorService.class
+com\videoapp\videojuegos\repository\VideojuegoRepository.class
+com\videoapp\videojuegos\controller\ListadoController.class
